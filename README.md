@@ -1,2 +1,3 @@
 # DiscordStatusDisplay
- This is the plugin of Intellij IDEA
+
+This is the plugin of Intellij IDEA
