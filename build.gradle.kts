@@ -8,11 +8,6 @@ version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
-    jcenter()
-}
-
-dependencies {
-    compile 'club.minnced:java-discord-rpc:%VERSION%'
 }
 
 // Configure Gradle IntelliJ Plugin - read more: https://github.com/JetBrains/gradle-intellij-plugin
